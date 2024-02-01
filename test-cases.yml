@@ -66,6 +66,7 @@
   prerequisites: |
     Открыта страница регистрации
   test-data: |
+    none
   steps: 
     - Нажать Submit
   expected-result: |
@@ -369,6 +370,7 @@
   prerequisites: |
     Открыта главная страница
   test-data: |
+    none
   steps: 
     - Скопировать URL страницы
     - В новой вкладке браузера, открыть страницу |
@@ -386,6 +388,7 @@
   prerequisites: |
     Открыта главная страница
   test-data: |
+    none
   steps: 
     - Скопировать URL страницы
     - В новой вкладке браузера, открыть страницу |
@@ -435,6 +438,7 @@
   prerequisites: |
     Открыть страницу https://live.browserstack.com/dashboard
   test-data: |
+    none
   steps: 
     - Ввести в строке для URL https://codebattle.hexlet.io/#lobby
     - Проверка в браузере Microsoft Edge
